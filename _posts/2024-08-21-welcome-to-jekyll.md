@@ -34,7 +34,7 @@ sidebar : []
 ## part1 java_home 찾기  
 # <윈도우 기준> 윈도우키 -> 시스템 환경 변수 편집 -> 환경 변수 -> 시스템 변수(s)에 java_home 찾기  
 # 1.java_home을 찾았다면 값을 확인 해보기   
-# ![](https://imgur.com/HXbUi9O)  
+# ![](https://imgur.com/HXbUi9O.png)  
 
 # 2. 위의 사진처럼 되어있지 않거나, 버전이 다른 경우 jdk11버전을 다운받아야함 (다운방법은 패스)  
 ## part2 jdk11 경로 설정  
@@ -43,7 +43,7 @@ sidebar : []
 # 3. 변수 값(V)에 jdk11의 경로를 입력  
 # 4. 모든 창 확인을 누르면 끝  
 # (참고 사진)  
-# ![](https://imgur.com/hFzgxsH)  
+# ![](https://imgur.com/hFzgxsH.png)  
 
 ### 스프링 부트 다운그레이드를 하는 방법
 ## part1 bulid.gradle
@@ -74,13 +74,13 @@ plugins {
 ## part2 프로젝트에 jdk11 적용하기  
 # 프로젝트의 메인 폴더 즉, 맨 상단에 위치한 폴더의 설정을 바꾸면 된다  
 # 1.아래 사진에 보이는 helloSpring이 맨 상단에 위치한 폴더  
-# ![](https://imgur.com/K67sEQi)  
+# ![](https://imgur.com/K67sEQi.png)  
 
 # 3.우클릭후 open Module settings 클릭  
-# ![](https://imgur.com/r8TRXkL)  
+# ![](https://imgur.com/r8TRXkL.png)  
   
 # 4.Dependencles의 Module SDK를 수정 (JDK11다운로드 받았다면 있을것이다)  
-# ![](https://imgur.com/hauwTp8)  
+# ![](https://imgur.com/hauwTp8.png)  
 
 
 
