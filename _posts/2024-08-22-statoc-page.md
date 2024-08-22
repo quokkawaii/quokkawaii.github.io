@@ -71,11 +71,11 @@ hello
 # 페이지의 제목, 스타일시트, 스크립트 등 정보를 포함 가능
 # 사용자는 <head> 태그를 볼 수 없음
 
-## <title>hello</title>
+## &#60;title>hello</title>
 # 탭의 제목을 hello로 바꾼다 
 # </tilte>은 해당 태그를 닫는것을 의미한다
 
-## <meta http-equiv="Content-Type" content = "text/html; charset=UTF-8" />
+## &#60;meta http-equiv="Content-Type" content = "text/html; charset=UTF-8" />
 # charset=UTF-8 -> 해당 문서가 UTF-8 인코딩을 사용함
 # 대부분의 언어를 지원하는 유니코드 문자 인코딩이다
 # meta http-equiv="Content-Type" -> 페이지의 문자 인코딩을 서버가 아닌 클라이언트 쪽에서 설정 가능하게한다
