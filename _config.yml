@@ -162,7 +162,7 @@ yat:
 # Page default value
 # defaults:
 #   home:
-#     heading: "Your awesome heading"
+#     heading: "인텔리제이와 스프링 부트를 사용한 웹 만들기"
 #     subheading: "Hello Spring!!!"
 #     banner: "Your image url"
 
