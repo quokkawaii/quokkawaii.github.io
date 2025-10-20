@@ -3,7 +3,7 @@ layout: post
 title: "sh: vite: command not found"
 subtitle:
 author: quokkawaii
-categories: bug error
+categories: bug error coins
 tags: react vite global error bug
 top: 1
 sidebar: []
