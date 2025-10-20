@@ -1,12 +1,12 @@
 ---
-layout : post
-title : [테스트]sh: vite: command not found
-subtitle : 
-author : quokkawaii
-categories : bug error
-tags : react vite global error bug
-top : 1
-sidebar : []
+layout: post
+title: "sh: vite: command not found"
+subtitle:
+author: quokkawaii
+categories: bug error
+tags: react vite global error bug
+top: 1
+sidebar: []
 ---
 
 # 에러 발생
