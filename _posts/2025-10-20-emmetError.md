@@ -4,7 +4,7 @@ title: "Emmet, typeScript 환경에서 사용하기"
 subtitle:
 author: quokkawaii
 categories: bug error
-tags: react vite global error bug
+tags: emmnet tyscript error bug
 top: 1
 sidebar: []
 ---
